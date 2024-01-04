@@ -1,6 +1,6 @@
 ### Hello there 👋
-**`let your intrusive toughts win`**<br />
-i make silly lil things
+**`Let your intrusive thoughts win`**<br />
+make silly lil things
 
 
 <!-- <div id="header" align="center">
