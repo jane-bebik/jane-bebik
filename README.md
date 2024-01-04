@@ -27,7 +27,6 @@ i make silly lil things
 <br />
 
 #
-<details>
 <h3>Jane bebik Journey</h3>
      I began my journey into programming with C# as my first language, aiming to work on Unity. However, I unexpectedly fell in love with the joy of creating whimsical projects. I dedicated myself to learning C# independently, seeking guidance from the community. As I shared my knowledge, people started approaching me for assistance, even offering payment for my help.
 
