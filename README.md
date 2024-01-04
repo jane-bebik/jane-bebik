@@ -29,7 +29,7 @@ i make silly lil things
 #
 <details>
  <summary><h3>Jane bebik Journey</h3></summary>
- I began my journey into programming with C# as my first language, aiming to work on Unity. However, I unexpectedly fell in love with the joy of creating whimsical projects. I dedicated myself to learning C# independently, seeking guidance from the community. As I shared my knowledge, people started approaching me for assistance, even offering payment for my help.
+     I began my journey into programming with C# as my first language, aiming to work on Unity. However, I unexpectedly fell in love with the joy of creating whimsical projects. I dedicated myself to learning C# independently, seeking guidance from the community. As I shared my knowledge, people started approaching me for assistance, even offering payment for my help.
 
 Before I knew it, I found myself creating 3D models, bash scripts, and kits for a game called VRChat. This passion led me to relocate to Canada to further my coding education. Today, I am pursuing a full-stack career, fueled by a deep interest in IT and web security.
    
